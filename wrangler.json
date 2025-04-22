@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dawn-thunder-4b9c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ee036523-d7e6-47d9-9c90-0f6d26225399",
+      "database_name": "ancient-shape-aed0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
